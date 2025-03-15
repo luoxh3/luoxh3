@@ -1,8 +1,8 @@
-👋 Hi, I’m **Xiaohui LUO (罗晓慧)**
+👋 Hi, I’m Xiaohui LUO (罗晓慧)
 
 **Personal website**: https://luoxh3.github.io/
 
-**Ph.D. Student** in Psychological Statistics and Psychometrics 
+Ph.D. Student in Psychological Statistics and Psychometrics 
 Beijing Normal University (BNU), China
 
 📧 **Email**: xiaohui_luo@mail.bnu.edu.cn  
